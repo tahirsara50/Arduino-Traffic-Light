@@ -32,8 +32,8 @@ The sequence repeats continuously.
 
 | LED | Arduino Pin |
 |------|-------------|
-| 🔴 Red | D2 |
-| 🟡 Yellow | D3 |
+| 🔴 Red | D3 |
+| 🟡 Yellow | D2 |
 | 🟢 Green | D4 |
 
 ---
