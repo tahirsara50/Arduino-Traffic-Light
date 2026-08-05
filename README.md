@@ -65,3 +65,9 @@ The Arduino source code is available in:
 **Sara Tahir**
 
 Second-Year Engineering Student
+
+---
+
+## 📄 License
+
+This project is for educational purposes.
