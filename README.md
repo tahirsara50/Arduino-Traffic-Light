@@ -10,15 +10,15 @@ This project simulates the behavior of a real traffic light using three LEDs con
 
 The LEDs light up in the following order:
 
-- 🔴 Red
-- 🟡 Yellow
-- 🟢 Green
+-  Red
+-  Yellow
+-  Green
 
 The sequence repeats continuously.
 
 ---
 
-## 🛠 Components
+##  Components
 
 - Arduino Uno
 - Breadboard
