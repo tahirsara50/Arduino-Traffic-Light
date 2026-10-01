@@ -1,10 +1,10 @@
- # 🚦 Arduino Traffic Light
+ #  Arduino Traffic Light
 
 A simple traffic light simulation using Arduino Uno and three LEDs.
 
 ---
 
-## 📖 Description
+##  Description
 
 This project simulates the behavior of a real traffic light using three LEDs connected to an Arduino Uno.
 
@@ -28,7 +28,7 @@ The sequence repeats continuously.
 
 ---
 
-## 🔌 Wiring
+##  Wiring
 
 | LED | Arduino Pin |
 |------|-------------|
@@ -38,13 +38,13 @@ The sequence repeats continuously.
 
 ---
 
-## 📷 Circuit
+##  Circuit
 
 ![Circuit](circuit.png)
 
 ---
 
-## 🎥 Simulation
+##  Simulation
 
 Download or watch the simulation:
 
@@ -52,7 +52,7 @@ Download or watch the simulation:
 
 ---
 
-## 💻 Source Code
+##  Source Code
 
 The Arduino source code is available in:
 
@@ -60,7 +60,7 @@ The Arduino source code is available in:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Sara Tahir**
 
@@ -68,6 +68,6 @@ Second-Year Engineering Student
 
 ---
 
-## 📄 License
+##  License
 
 This project is for educational purposes.
